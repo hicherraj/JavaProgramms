@@ -1,7 +1,7 @@
-public final class Main
+class HalloWorld
 { 
    public static void main( final java.lang.String[] args )
    { 
-      	java.lang.System.out.println( "Hallo Welt!" ); 
+      	System.out.println( "Hallo Welt!" ); 
    }
 }
